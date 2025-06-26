@@ -4,13 +4,11 @@ A fully responsive, animated, and elegant personal portfolio built with **Next.j
 
 ## 🌐 Live Demo
 
-> [View Portfolio](https://yourportfolio.com)
+> [[View Portfolio](https://yourportfolio.com)](https://abhay-portfolio6116.netlify.app/)
 
 ---
 
-## 📸 Preview
 
-![Portfolio Screenshot](./public/preview.png)
 
 ---
 
