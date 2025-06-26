@@ -15,7 +15,7 @@ export default function About() {
         >
           <div className="w-80 h-80 md:w-[22rem] md:h-[22rem] relative rounded-2xl overflow-hidden shadow-xl border-4 border-blue-100">
             <Image
-              src="./profile_picture.png"
+              src="/profile_picture.png"
               alt="My Image"
               layout="fill"
               objectFit="cover"
@@ -42,7 +42,7 @@ export default function About() {
 
           {/* Resume Button */}
           <a
-            href="./resume.pdf"
+            href="/resume.pdf"
             download
             className="inline-block bg-blue-600 text-white font-medium px-6 py-3 rounded-lg hover:bg-blue-700 transition duration-300"
           >

@@ -94,7 +94,7 @@ export default function Hero() {
         <div className="flex justify-center">
           <div className="w-64 h-64 relative rounded-full overflow-hidden border-4 border-white shadow-xl animate-float">
             <Image
-              src="./me.jpg"
+              src="/me.jpg"
               alt="My Photo"
               layout="fill"
               objectFit="cover"
